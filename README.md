@@ -1,4 +1,10 @@
 # Sejong University Multi-Core Team Project
+
+## 조원 : 
+[kolom1234’s GitHub Profile](https://github.com/kolom1234)
+[10cheon00’s GitHub Profile](https://github.com/10cheon00)
+[seyun0714’s GitHub Profile](https://github.com/seyun0714)
+
 # Optimization graph
 
 커널 코드 최적화 기법 수행별 시간 측정 결과 : [Google spread sheet](https://docs.google.com/spreadsheets/d/1IjRzLd4ya9INZlb1EQPttCwjEXhajSdcdERWZfWXKc0/edit?gid=2116958284#gid=2116958284)
